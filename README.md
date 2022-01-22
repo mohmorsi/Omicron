@@ -5,7 +5,7 @@
 </div>
 
 # Omicron
-A COVID-19 tracker for any country across the globe. 
+A COVID-19 tracker for every country across the globe. 
 
 ## Table of Contents
 * [Introduction](#introduction) 
