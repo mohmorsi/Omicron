@@ -3,28 +3,53 @@
 ![license](https://img.shields.io/github/license/mohmorsi/Space-Byte?style=flat-square)
 ![made with heart by mohmorsi](https://img.shields.io/badge/made%20with%20%E2%9D%A4%EF%B8%8F%20by-mohmorsi-red?style=flat-square)
 </div>
-
+                                   
 # Omicron
-A COVID-19 tracker for every country across the globe. 
-
+                                       ____  __  __ _____ _____ _____   ____  _   _ 
+                                      / __ \|  \/  |_   _/ ____|  __ \ / __ \| \ | |
+                                     | |  | | \  / | | || |    | |__) | |  | |  \| |
+                                     | |  | | |\/| | | || |    |  _  /| |  | | .  `|
+                                     | |__| | |  | |_| || |____| | \ \| |__| | |\  |
+                                      \____/|_|  |_|_____\_____|_|  \_\\____/|_| \_|
 ## Table of Contents
-* [Introduction](#introduction) 
-* [Demo](#demo)
+* [Introduction](#introduction)
+* [Supported OS](#supported-os)
 * [Usage](#usage)
+* [Demo](#demo)
 * [License](#license)
 * [Contributors](#contributors)
 * [Questions](#questions)
 
 ## Introduction
+**Omicron** is a bash script that utilizes a **CLI** to help determine COVID-19 cases in your country of choice. 
 
-## Demo
+Case counts are _updated daily_ and are **sourced** from <a href="https://www.worldometers.info/coronavirus/#countries">worldometer</a>.
+
+## Supported OS
+<ul>
+<li> macOS </li>
+<li> Linux </li>
+<li> Darwin </li>
+<li> FreeBSD </li>
+<li> Windows </li>
+</ul>
 
 ## Usage
+To start using Omicron, type `./omicron.sh`. The program will then prompt you to `Enter the name of a country:`. Be sure to include `-` if your country's name has more than one word. To exit the interface, type `n` or `no`.
+
+## Demo
+<div align="center">
+  
+[![asciicast](https://asciinema.org/a/ZvTos7YXn8aYCgnuICDgH1V8V.svg)](https://asciinema.org/a/ZvTos7YXn8aYCgnuICDgH1V8V)
+</div>
+
 
 ## License
+GPL-3.0 License
 
+Copyright (c) 2019 Mohamed Morsi
 ## Contributors
-
+Mohamed Morsi
 ## Questions
 Contact Me:
 
