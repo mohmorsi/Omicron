@@ -5,12 +5,12 @@
 </div>
                                    
 # Omicron
-                                       ____  __  __ _____ _____ _____   ____  _   _ 
-                                      / __ \|  \/  |_   _/ ____|  __ \ / __ \| \ | |
-                                     | |  | | \  / | | || |    | |__) | |  | |  \| |
-                                     | |  | | |\/| | | || |    |  _  /| |  | | .  `|
-                                     | |__| | |  | |_| || |____| | \ \| |__| | |\  |
-                                      \____/|_|  |_|_____\_____|_|  \_\\____/|_| \_|
+                                     ____  __  __ _____ _____ _____   ____  _   _ 
+                                    / __ \|  \/  |_   _/ ____|  __ \ / __ \| \ | |
+                                   | |  | | \  / | | || |    | |__) | |  | |  \| |
+                                   | |  | | |\/| | | || |    |  _  /| |  | | .  `|
+                                   | |__| | |  | |_| || |____| | \ \| |__| | |\  |
+                                    \____/|_|  |_|_____\_____|_|  \_\\____/|_| \_|
 ## Table of Contents
 * [Introduction](#introduction)
 * [Supported OS](#supported-os)
@@ -47,7 +47,7 @@ To start using Omicron, type `./omicron.sh`. The program will then prompt you to
 ## License
 GPL-3.0 License
 
-Copyright (c) 2019 Mohamed Morsi
+Copyright (c) 2022 Mohamed Morsi
 ## Contributors
 Mohamed Morsi
 ## Questions
