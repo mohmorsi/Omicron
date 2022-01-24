@@ -40,7 +40,7 @@ To start using Omicron, type `./omicron.sh`. The program will then prompt you to
 ## Demo
 <div align="center">
   
-[![asciicast](https://asciinema.org/a/ZvTos7YXn8aYCgnuICDgH1V8V.svg)](https://asciinema.org/a/ZvTos7YXn8aYCgnuICDgH1V8V)
+[![asciicast](https://asciinema.org/a/hD6g2ny6NvsoEfCIDrWZRYG3T.svg)](https://asciinema.org/a/hD6g2ny6NvsoEfCIDrWZRYG3T)
 </div>
 
 
