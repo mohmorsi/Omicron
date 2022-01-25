@@ -1,21 +1,21 @@
 #!/bin/bash
 
-#Copyright (c) 2022 Mohamed Morsi
+# Copyright (c) 2022 Mohamed Morsi
 # 
-# This file is part of Project Omicron.
+# This file is part of Mohamed Morsi's Omicron Repository.
 #
-# Project Omicron is free software: you can redistribute it and/or modify
+# Omicron is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Lesser General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
 #
-# Project Omicron is distributed in the hope that it will be useful,
+# Omicron is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU Lesser General Public License for more details.
 #
 # You should have received a copy of the GNU Lesser General Public License
-# along with Project Omicron.  If not, write to the Free Software
+# along with Omicron. If not, write to the Free Software
 # Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 ############################################################################################################
@@ -25,14 +25,12 @@
 ############################################################################################################
 echo -e '
 \033[1;94m
-      ____  __  __ _____ _____ _____   ____  _   _ 
-     / __ \|  \/  |_   _/ ____|  __ \ / __ \| \ | |
-    | |  | | \  / | | || |    | |__) | |  | |  \| |
-    | |  | | |\/| | | || |    |  _  /| |  | | . ` |
-    | |__| | |  | |_| || |____| | \ \| |__| | |\  |
-     \____/|_|  |_|_____\_____|_|  \_\\____/|_| \_|
-                                                  
-                                                  
+	  ____  __  __ _____ _____ _____   ____  _   _ 
+	 / __ \|  \/  |_   _/ ____|  __ \ / __ \| \ | |
+	| |  | | \  / | | || |    | |__) | |  | |  \| |
+	| |  | | |\/| | | || |    |  _  /| |  | | . ` |
+	| |__| | |  | |_| || |____| | \ \| |__| | |\  |
+	 \____/|_|  |_|_____\_____|_|  \_\\____/ |_| \_|
 \033[0m
 '
 ############################################################################################################
