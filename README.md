@@ -35,7 +35,7 @@ Case counts are _updated daily_ and are **sourced** from <a href="https://www.wo
 </ul>
 
 ## Usage
-To start using Omicron, type `./omicron.sh`. The program will then prompt you to `Enter the name of a country:`. Be sure to include `-` if your country's name has more than one word. To exit the interface, type `n` or `no`.
+To start using **Omicron**, type `./omicron.sh`. The program will then prompt you to `Enter the name of a country:`. Be sure to include `-` if your country's name has more than one word. To exit the interface, type `n` or `no`.
 
 ## Demo
 <div align="center">
