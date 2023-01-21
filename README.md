@@ -21,9 +21,8 @@
 * [Questions](#questions)
 
 ## Introduction
-**Omicron** is a bash script that utilizes a **CLI** to help determine COVID-19 cases in your country of choice. 
 
-Case counts are _updated daily_ and are **sourced** from <a href="https://www.worldometers.info/coronavirus/#countries">worldometer</a>.
+Welcome to **Omicron**, a command-line tool that helps you stay informed about the current COVID-19 situation in your country of choice. Utilizing a powerful bash script, **Omicron** quickly and easily retrieves case counts from <a href="https://www.worldometers.info/coronavirus/#countries">worldometer</a>, which are updated daily for the most accurate and current information. With its user-friendly interface, **Omicron** provides a convenient and efficient way to check the latest statistics without having to navigate through multiple websites. Whether you're a concerned citizen, a journalist, or an epidemiologist, **Omicron** is the perfect tool to help you stay up-to-date on the latest COVID-19 developments. This is an open-source project, and you can contribute, use and modify it as you like.
 
 ## Supported OS
 <ul>
